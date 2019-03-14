@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/ebulgrin/Pipeline%20Sandbox/_apis/build/status/ebulgrin.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/ebulgrin/Pipeline%20Sandbox/_build/latest?definitionId=1&branchName=master)
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to use this repository, see docs for [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
